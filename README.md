@@ -1,3 +1,3 @@
-# morpho
-R sripts used in morphological analysis of crayfish species
+# crayfish
+R sripts used in the molecular and morphological analysis of Chilean freshwater crayfish species
 Crayfish Project (PhD thesis)
